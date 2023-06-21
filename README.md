@@ -1,6 +1,4 @@
-# laion.ai
-
-This repo hosts all the content within https://laion.ai
+# Chronobot
 
 ## Adding Blog Posts
 
